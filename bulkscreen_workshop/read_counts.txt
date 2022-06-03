@@ -1,0 +1,1 @@
+fatty_acid_data/GSE148627_maregger_FASN_CRISPR_readCounts_13Apr20.txt
