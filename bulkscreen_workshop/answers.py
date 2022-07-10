@@ -40,7 +40,7 @@ ANSWER_DICT={
     "LFC, which we can see in the plot.\n"+\
     "However, we're also observing some positive control guides with high LFC in the \n"+\
     "opposite direction."
-  }
+  },
   "Q4":
   {"Q4_1":
    "In guide significance plot, there are lots of variant and negative control guides with \n"+\
